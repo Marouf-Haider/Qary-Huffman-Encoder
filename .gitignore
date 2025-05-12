@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.spec
+build/
+dist/
+*.exe
+huffman_package/
