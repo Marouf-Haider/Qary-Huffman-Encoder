@@ -59,9 +59,10 @@ This software is released for educational and non-commercial use.
 Contact **Marouf Haider** for more.
 
 ---
-
+> ⚠️ This implementation is educational and may contain unintentional errors.
+> If you encounter issues, feel free to reach out
 ## Contact
 
-Email: haider.marouf@nhsm.edu.dz 
+Email: haider.marouf@nhsm.edu.dz or ensmmarouf@gmail.com
 
 LinkedIn: www.linkedin.com/in/haider-marouf-1149b1316
