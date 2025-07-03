@@ -5,7 +5,7 @@ Fourth-year student at the National Higher School of Mathematics
 
 Cryptography Coding & Security  
 
-Email: haider.marouf@nhsm.edu.dz
+Email: haider.marouf@nhsm.edu.dz / ensmmarouf@gmail.com
 
 ---
 
@@ -16,6 +16,8 @@ You can analyze text, compress it with variable Q-values, visualize the Huffman 
 
 No Python installation is required — just double-click the `.exe`.
 
+> ⚠️ This implementation is educational and may contain unintentional errors.
+> If you encounter issues, feel free to reach out.
 ---
 
 ## How to Use
@@ -59,8 +61,6 @@ This software is released for educational and non-commercial use.
 Contact **Marouf Haider** for more.
 
 ---
-> ⚠️ This implementation is educational and may contain unintentional errors.
-> If you encounter issues, feel free to reach out
 ## Contact
 
 Email: haider.marouf@nhsm.edu.dz or ensmmarouf@gmail.com
