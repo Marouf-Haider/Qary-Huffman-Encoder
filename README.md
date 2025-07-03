@@ -1,7 +1,7 @@
 # Q-ary Huffman Encoder
 
 **Created by Marouf Haider**  
-Fourth-year student at the National Higher School of Mathematics
+National Higher School of Mathematics
 
 Cryptography Coding & Security  
 
