@@ -1,11 +1,9 @@
 # Q-ary Huffman Encoder
 
 **Created by Marouf Haider**  
-National Higher School of Mathematics
+*National Higher School of Mathematics, Cryptography Coding & Security*  
 
-Cryptography Coding & Security  
-
-Email: haider.marouf@nhsm.edu.dz / ensmmarouf@gmail.com
+**Email**: haider.marouf@nhsm.edu.dz / ensmmarouf@gmail.com
 
 ---
 
